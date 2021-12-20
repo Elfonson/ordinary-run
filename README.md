@@ -1,2 +1,8 @@
-# ordinary-run
-This is a test repository for Devops class
+#Running is fine
+
+Running is a choice 
+
+I believe running benefits your health
+
+The following are places I ran:
+
