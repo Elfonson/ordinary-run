@@ -1,6 +1,6 @@
-#Running is fine
+# Running is fine
 
-Running is a choice 
+## Running is a choice 
 
 I believe running benefits your health
 
