@@ -1,8 +1,8 @@
-# Running is fine
+# Running is awesome
 
-## Running is a choice 
+Running is a choice 
 
 I believe running benefits your health
 
-The following are places I ran:
+Befriend me if you like running too
 
